@@ -1,9 +1,5 @@
 {
   "name": "youtube-clone",
-<<<<<<< HEAD
-=======
-  "homepage": "https://Amit8830.github.io/youtubeclone2",
->>>>>>> fbcaf50a24eb75c7fa925dd6d03ddfddcfa217c6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,12 +15,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-<<<<<<< HEAD
 
-=======
-    "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
->>>>>>> fbcaf50a24eb75c7fa925dd6d03ddfddcfa217c6
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
