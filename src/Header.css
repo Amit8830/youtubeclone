@@ -44,6 +44,9 @@ margin-left: 20px;
     align-items: center;
 }
 
+.header:hover {
+   cursor: pointer;
+}
 .header_input input{
     flex: 1;
     border: none;

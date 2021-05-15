@@ -15,3 +15,6 @@
     display: flex;
     flex-wrap: wrap;
 }
+.recommendedVideo:hover{
+    cursor: pointer;
+}
